@@ -1,5 +1,5 @@
 module.exports = {
-  appName: "My Awesome App",
+  appName: "marketplace",
   env: process.env.NODE_ENV || "development",
-  port: process.env.PORT || 5000,
+  port: process.env.PORT || 4000,
 };
